@@ -7,7 +7,7 @@
 
     echo "Moje ime je $ime, i imam $godine godina, visok sam $visina. ";
     $ime = "Niki";
-    $godine = 18;
+    $godine = 19;
     echo "Moje ime je $ime, i imam $godine godina, visok sam $visina.";
 
 ?>
